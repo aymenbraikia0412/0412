@@ -1,0 +1,103 @@
+[9:58:09 AM] [LOG] [Network] WebSocket server is listening on port 443
+[9:58:09 AM] [LOG] [Content] Loading base content-pack
+[9:58:09 AM] [LOG] [Content] Loaded 10 entities
+[9:58:09 AM] [ERROR] [CommandSystem] Invalid command from path: C:\Users\HP\Desktop\nostarve-server-master (1)\famish server code\compiled\command\commands\building\clean-building.js
+[9:58:10 AM] [WARN] [TICKER] TPS: 3.7593984962406015 | DELTA: 0.266
+[9:58:10 AM] [WARN] [TICKER] TPS: 13.698630136986303 | DELTA: 0.073
+[9:58:11 AM] [LOG] [Discord] Ready!
+[9:58:12 AM] [LOG] [Network] Connected with 0.0.0.1 ip
+[9:58:12 AM] [WARN] [TICKER] TPS: 10.309278350515463 | DELTA: 0.097
+[9:58:22 AM] [WARN] [TICKER] TPS: 10.204081632653061 | DELTA: 0.098
+[9:58:25 AM] [LOG] [Command] restarver#1 issued command: g 1 reidite_door_spike
+[9:58:33 AM] [LOG] [Command] restarver#1 issued command: g 1 reidite_door
+[9:59:34 AM] [WARN] [TICKER] TPS: 15.625 | DELTA: 0.064
+[9:59:35 AM] [WARN] [TICKER] TPS: 18.51851851851852 | DELTA: 0.054
+[9:59:36 AM] [LOG] [Command] restarver#1 issued command: ci
+[9:59:42 AM] [WARN] [TICKER] TPS: 18.51851851851852 | DELTA: 0.054
+[9:59:43 AM] [WARN] [TICKER] TPS: 18.867924528301888 | DELTA: 0.053
+[10:00:09 AM] [LOG] [Command] restarver#1 issued command: tp 1 84 126
+[10:00:10 AM] [LOG] [Command] restarver#1 issued command: tp 1 83 121
+[10:00:12 AM] [LOG] [Command] restarver#1 issued command: tp 1 77 114
+[10:00:13 AM] [LOG] [Command] restarver#1 issued command: tp 1 77 109
+[10:00:13 AM] [LOG] [Command] restarver#1 issued command: tp 1 73 105
+[10:00:14 AM] [LOG] [Command] restarver#1 issued command: tp 1 72 100
+[10:00:15 AM] [LOG] [Command] restarver#1 issued command: tp 1 69 94
+[10:00:16 AM] [LOG] [Command] restarver#1 issued command: tp 1 68 89
+[10:00:16 AM] [LOG] [Command] restarver#1 issued command: tp 1 67 84
+[10:00:17 AM] [LOG] [Command] restarver#1 issued command: tp 1 66 81
+[10:00:18 AM] [LOG] [Command] restarver#1 issued command: tp 1 69 77
+[10:00:19 AM] [LOG] [Command] restarver#1 issued command: tp 1 75 75
+[10:00:25 AM] [WARN] [TICKER] TPS: 19.23076923076923 | DELTA: 0.052
+[10:00:34 AM] [WARN] [TICKER] TPS: 19.607843137254903 | DELTA: 0.051
+[10:00:41 AM] [WARN] [TICKER] TPS: 12.820512820512821 | DELTA: 0.078
+[10:01:04 AM] [LOG] [Command] restarver#1 issued command: ci
+[10:01:09 AM] [LOG] [Command] restarver#1 issued command: cba
+[10:01:58 AM] [WARN] [TICKER] TPS: 10.309278350515463 | DELTA: 0.097
+[10:02:14 AM] [WARN] [TICKER] TPS: 12.345679012345679 | DELTA: 0.081
+[10:02:24 AM] [WARN] [TICKER] TPS: 17.543859649122805 | DELTA: 0.057
+[10:03:04 AM] [WARN] [TICKER] TPS: 15.625 | DELTA: 0.064
+[10:03:15 AM] [WARN] [TICKER] TPS: 18.867924528301888 | DELTA: 0.053
+[10:04:05 AM] [WARN] [TICKER] TPS: 16.949152542372882 | DELTA: 0.059
+[10:04:55 AM] [WARN] [TICKER] TPS: 16.949152542372882 | DELTA: 0.059
+[10:05:58 AM] [WARN] [TICKER] TPS: 14.492753623188404 | DELTA: 0.069
+[10:06:44 AM] [WARN] [TICKER] TPS: 18.51851851851852 | DELTA: 0.054
+[10:07:57 AM] [WARN] [TICKER] TPS: 18.181818181818183 | DELTA: 0.055
+[10:08:10 AM] [LOG] [SaveSystem] Saving 310 entities
+[10:09:19 AM] [WARN] [TICKER] TPS: 16.129032258064516 | DELTA: 0.062
+[10:10:07 AM] [WARN] [TICKER] TPS: 16.129032258064516 | DELTA: 0.062
+[10:10:19 AM] [WARN] [TICKER] TPS: 19.23076923076923 | DELTA: 0.052
+[10:10:22 AM] [WARN] [TICKER] TPS: 15.873015873015873 | DELTA: 0.063
+[10:13:24 AM] [LOG] [Command] restarver#1 issued command: g 1 gold_helmet
+[10:13:28 AM] [LOG] [Command] restarver#1 issued command: g 1 stone_helmet
+[10:13:31 AM] [LOG] [Command] restarver#1 issued command: g 1 wood_helmet
+[10:13:39 AM] [LOG] [Command] restarver#1 issued command: g 1 diamond_helmet
+[10:13:49 AM] [LOG] [Command] restarver#1 issued command: g 1 amethyst_helmet
+[10:13:56 AM] [LOG] [Command] restarver#1 issued command: g 1 reidite_helmet
+[10:14:00 AM] [LOG] [Command] restarver#1 issued command: g 1 dragon_helmet
+[10:14:04 AM] [LOG] [Command] restarver#1 issued command: g 1 lava_helmet
+[10:14:16 AM] [LOG] [Command] restarver#1 issued command: g 1 lava_sword
+[10:14:32 AM] [LOG] [Command] restarver#1 issued command: g 1 dragon_sword
+[10:14:35 AM] [LOG] [Command] restarver#1 issued command: g 1 reidite_sword
+[10:14:42 AM] [LOG] [Command] restarver#1 issued command: g 1 amethyst_sword
+[10:14:51 AM] [LOG] [Command] restarver#1 issued command: g 1 diamond_sword
+[10:14:55 AM] [LOG] [Command] restarver#1 issued command: g 1 gold_sword
+[10:14:57 AM] [LOG] [Command] restarver#1 issued command: g 1 stone_sword
+[10:15:00 AM] [LOG] [Command] restarver#1 issued command: g 1 wood_sword
+[10:15:03 AM] [WARN] [TICKER] TPS: 13.698630136986303 | DELTA: 0.073
+[10:15:26 AM] [WARN] [TICKER] TPS: 17.241379310344826 | DELTA: 0.058
+[10:15:28 AM] [WARN] [TICKER] TPS: 15.873015873015873 | DELTA: 0.063
+[10:15:28 AM] [WARN] [TICKER] TPS: 14.492753623188404 | DELTA: 0.069
+[10:15:29 AM] [WARN] [TICKER] TPS: 18.181818181818183 | DELTA: 0.055
+[10:15:46 AM] [WARN] [TICKER] TPS: 10.526315789473685 | DELTA: 0.095
+[10:15:58 AM] [WARN] [TICKER] TPS: 17.543859649122805 | DELTA: 0.057
+[10:16:56 AM] [WARN] [TICKER] TPS: 14.084507042253522 | DELTA: 0.071
+[10:18:10 AM] [LOG] [SaveSystem] Saving 310 entities
+[10:18:19 AM] [WARN] [TICKER] TPS: 15.873015873015873 | DELTA: 0.063
+[10:19:58 AM] [WARN] [TICKER] TPS: 12.345679012345679 | DELTA: 0.081
+[10:20:18 AM] [WARN] [TICKER] TPS: 19.23076923076923 | DELTA: 0.052
+[10:20:52 AM] [WARN] [TICKER] TPS: 19.23076923076923 | DELTA: 0.052
+[10:21:13 AM] [WARN] [TICKER] TPS: 16.129032258064516 | DELTA: 0.062
+[10:23:12 AM] [WARN] [TICKER] TPS: 16.949152542372882 | DELTA: 0.059
+[10:23:12 AM] [WARN] [TICKER] TPS: 6.211180124223603 | DELTA: 0.161
+[10:24:36 AM] [WARN] [TICKER] TPS: 13.88888888888889 | DELTA: 0.072
+[10:24:46 AM] [WARN] [TICKER] TPS: 14.084507042253522 | DELTA: 0.071
+[10:24:46 AM] [WARN] [TICKER] TPS: 4.424778761061947 | DELTA: 0.226
+[10:24:49 AM] [WARN] [TICKER] TPS: 13.698630136986303 | DELTA: 0.073
+[10:24:54 AM] [WARN] [TICKER] TPS: 15.15151515151515 | DELTA: 0.066
+[10:26:09 AM] [WARN] [TICKER] TPS: 18.867924528301888 | DELTA: 0.053
+[10:27:56 AM] [WARN] [TICKER] TPS: 13.698630136986303 | DELTA: 0.073
+[10:27:56 AM] [WARN] [TICKER] TPS: 16.39344262295082 | DELTA: 0.061
+[10:28:10 AM] [LOG] [SaveSystem] Saving 310 entities
+[10:29:11 AM] [WARN] [TICKER] TPS: 17.241379310344826 | DELTA: 0.058
+[10:33:38 AM] [WARN] [TICKER] TPS: 18.181818181818183 | DELTA: 0.055
+[10:34:09 AM] [WARN] [TICKER] TPS: 19.23076923076923 | DELTA: 0.052
+[10:34:10 AM] [WARN] [TICKER] TPS: 12.658227848101266 | DELTA: 0.079
+[10:35:47 AM] [WARN] [TICKER] TPS: 14.925373134328357 | DELTA: 0.067
+[10:36:58 AM] [WARN] [TICKER] TPS: 17.543859649122805 | DELTA: 0.057
+[10:37:01 AM] [WARN] [TICKER] TPS: 12.048192771084336 | DELTA: 0.083
+[10:37:43 AM] [WARN] [TICKER] TPS: 19.23076923076923 | DELTA: 0.052
+[10:38:08 AM] [WARN] [TICKER] TPS: 17.857142857142858 | DELTA: 0.056
+[10:38:10 AM] [LOG] [SaveSystem] Saving 310 entities
+[10:38:20 AM] [WARN] [TICKER] TPS: 16.949152542372882 | DELTA: 0.059
+[10:38:22 AM] [WARN] [TICKER] TPS: 18.867924528301888 | DELTA: 0.053
+[10:39:23 AM] [WARN] [TICKER] TPS: 17.857142857142858 | DELTA: 0.056

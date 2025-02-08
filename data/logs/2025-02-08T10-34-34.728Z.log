@@ -1,0 +1,80 @@
+[11:34:34 AM] [LOG] [Network] WebSocket server is listening on port 443
+[11:34:34 AM] [LOG] [Content] Loading base content-pack
+[11:34:34 AM] [LOG] [Content] Loaded 10 entities
+[11:34:34 AM] [ERROR] [CommandSystem] Invalid command from path: C:\Users\HP\Desktop\nostarve-server-master (1)\famish server code\compiled\command\commands\building\clean-building.js
+[11:34:35 AM] [WARN] [TICKER] TPS: 7.092198581560284 | DELTA: 0.141
+[11:34:36 AM] [LOG] [Discord] Ready!
+[11:34:42 AM] [LOG] [Network] Connected with 0.0.0.1 ip
+[11:34:47 AM] [WARN] [TICKER] TPS: 13.513513513513514 | DELTA: 0.074
+[11:34:47 AM] [LOG] [Command] restarver#1 issued command: tp 1 47 115
+[11:34:48 AM] [LOG] [Command] restarver#1 issued command: tp 1 39 112
+[11:34:48 AM] [WARN] [TICKER] TPS: 18.181818181818183 | DELTA: 0.055
+[11:34:48 AM] [LOG] [Command] restarver#1 issued command: tp 1 33 111
+[11:34:48 AM] [LOG] [Command] restarver#1 issued command: tp 1 27 110
+[11:34:49 AM] [WARN] [TICKER] TPS: 17.543859649122805 | DELTA: 0.057
+[11:34:49 AM] [LOG] [Command] restarver#1 issued command: tp 1 20 108
+[11:34:49 AM] [LOG] [Command] restarver#1 issued command: tp 1 13 106
+[11:34:49 AM] [LOG] [Command] restarver#1 issued command: tp 1 6 104
+[11:34:50 AM] [LOG] [Command] restarver#1 issued command: tp 1 4 102
+[11:34:51 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 97
+[11:34:57 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 78
+[11:34:58 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 70
+[11:34:58 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 62
+[11:34:59 AM] [WARN] [TICKER] TPS: 19.23076923076923 | DELTA: 0.052
+[11:34:59 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 55
+[11:35:00 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 47
+[11:35:00 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 40
+[11:35:01 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 33
+[11:35:01 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 26
+[11:35:01 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 19
+[11:35:02 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 12
+[11:35:02 AM] [LOG] [Command] restarver#1 issued command: tp 1 3 5
+[11:35:05 AM] [LOG] [Command] restarver#1 issued command: tp 1 32 3
+[11:35:06 AM] [LOG] [Command] restarver#1 issued command: tp 1 58 3
+[11:35:07 AM] [WARN] [TICKER] TPS: 13.698630136986303 | DELTA: 0.073
+[11:35:07 AM] [WARN] [TICKER] TPS: 17.543859649122805 | DELTA: 0.057
+[11:35:07 AM] [LOG] [Command] restarver#1 issued command: tp 1 84 2
+[11:35:09 AM] [LOG] [Command] restarver#1 issued command: tp 1 110 2
+[11:35:10 AM] [LOG] [Command] restarver#1 issued command: tp 1 135 2
+[11:35:10 AM] [LOG] [Command] restarver#1 issued command: tp 1 151 2
+[11:35:11 AM] [WARN] [TICKER] TPS: 15.625 | DELTA: 0.064
+[11:35:12 AM] [LOG] [Command] restarver#1 issued command: tp 1 143 8
+[11:35:12 AM] [WARN] [TICKER] TPS: 14.084507042253522 | DELTA: 0.071
+[11:35:12 AM] [WARN] [TICKER] TPS: 15.625 | DELTA: 0.064
+[11:35:16 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 24
+[11:35:16 AM] [LOG] [Command] restarver#1 issued command: tp 1 144 34
+[11:35:18 AM] [LOG] [Command] restarver#1 issued command: tp 1 143 46
+[11:35:18 AM] [LOG] [Command] restarver#1 issued command: tp 1 146 55
+[11:35:19 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 66
+[11:35:20 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 76
+[11:35:21 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 85
+[11:35:22 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 94
+[11:35:22 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 103
+[11:35:23 AM] [WARN] [TICKER] TPS: 18.181818181818183 | DELTA: 0.055
+[11:35:23 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 112
+[11:35:23 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 120
+[11:35:24 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 129
+[11:35:24 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 137
+[11:35:25 AM] [LOG] [Command] restarver#1 issued command: tp 1 145 146
+[11:35:27 AM] [WARN] [TICKER] TPS: 14.492753623188404 | DELTA: 0.069
+[11:35:28 AM] [LOG] [Command] restarver#1 issued command: tp 1 125 147
+[11:35:29 AM] [LOG] [Command] restarver#1 issued command: tp 1 113 147
+[11:35:30 AM] [LOG] [Command] restarver#1 issued command: tp 1 98 147
+[11:35:31 AM] [LOG] [Command] restarver#1 issued command: tp 1 83 147
+[11:35:31 AM] [LOG] [Command] restarver#1 issued command: tp 1 67 147
+[11:35:32 AM] [LOG] [Command] restarver#1 issued command: tp 1 54 147
+[11:35:32 AM] [LOG] [Command] restarver#1 issued command: tp 1 39 147
+[11:35:33 AM] [LOG] [Command] restarver#1 issued command: tp 1 20 147
+[11:35:34 AM] [LOG] [Command] restarver#1 issued command: tp 1 5 147
+[11:35:35 AM] [WARN] [TICKER] TPS: 17.857142857142858 | DELTA: 0.056
+[11:35:47 AM] [WARN] [TICKER] TPS: 19.607843137254903 | DELTA: 0.051
+[11:35:55 AM] [LOG] [Command] restarver#1 issued command: tp 1 54 147
+[11:35:56 AM] [LOG] [Command] restarver#1 issued command: tp 1 70 146
+[11:35:57 AM] [LOG] [Command] restarver#1 issued command: tp 1 86 147
+[11:35:57 AM] [LOG] [Command] restarver#1 issued command: tp 1 102 147
+[11:35:58 AM] [LOG] [Command] restarver#1 issued command: tp 1 117 147
+[11:35:59 AM] [LOG] [Command] restarver#1 issued command: tp 1 132 147
+[11:35:59 AM] [WARN] [TICKER] TPS: 18.181818181818183 | DELTA: 0.055
+[11:36:35 AM] [WARN] [TICKER] TPS: 14.084507042253522 | DELTA: 0.071
+[11:38:35 AM] [WARN] [TICKER] TPS: 19.607843137254903 | DELTA: 0.051
+[11:40:01 AM] [WARN] [TICKER] TPS: 18.867924528301888 | DELTA: 0.053
